@@ -1,0 +1,45 @@
+Module Module1
+
+    Sub Main()
+        Console.WriteLine("Ingrese los numeros")
+        Dim a As Integer = Integer.Parse(Console.ReadLine())
+        Dim b As Integer = Integer.Parse(Console.ReadLine())
+        Dim c As Integer = Integer.Parse(Console.ReadLine())
+        Dim K
+
+        If a > b AndAlso a > c Then
+            GoTo caso1
+        ElseIf b > a AndAlso b > c Then
+            GoTo caso2
+        Else
+            GoTo caso3
+        End If
+caso1:
+        Console.Write(a.ToString + ", ")
+        If b < c Then
+            Console.Write(c.ToString + ", " + b.ToString)
+        Else
+            Console.Write(b.ToString + ", " + c.ToString)
+        End If
+        K = Console.ReadKey
+caso2:
+        Console.Write(b.ToString + ", ")
+        If a < c Then
+            Console.Write(c.ToString + ", " + a.ToString)
+        Else
+            Console.Write(a.ToString + ", " + c.ToString)
+        End If
+        K = Console.ReadKey
+caso3:
+        Console.Write(c.ToString + ", ")
+        If a < b Then
+            Console.Write(b.ToString + ", " + a.ToString)
+        Else
+            Console.Write(a.ToString + ", " + b.ToString)
+        End If
+        K = Console.ReadKey
+
+
+    End Sub
+
+End Module
