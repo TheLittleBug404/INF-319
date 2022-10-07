@@ -1,0 +1,8 @@
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\EJERCICIO6.exe.config
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\EJERCICIO6.XML
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\EJERCICIO6.exe
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\EJERCICIO6.pdb
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\FSharp.Core.dll
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\bin\Debug\FSharp.Core.xml
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\obj\Debug\EJERCICIO6.exe
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO6\EJERCICIO6\obj\Debug\EJERCICIO6.pdb
