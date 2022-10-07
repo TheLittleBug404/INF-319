@@ -1,0 +1,17 @@
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\bin\Debug\net6.0-windows\Caculadora.exe
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\bin\Debug\net6.0-windows\Caculadora.deps.json
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\bin\Debug\net6.0-windows\Caculadora.runtimeconfig.json
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\bin\Debug\net6.0-windows\Caculadora.dll
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\bin\Debug\net6.0-windows\Caculadora.pdb
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.csproj.AssemblyReference.cache
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.csproj.GenerateResource.cache
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.AssemblyInfoInputs.cache
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.AssemblyInfo.cs
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.csproj.CoreCompileInputs.cache
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.dll
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\refint\Caculadora.dll
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.pdb
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.genruntimeconfig.cache
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\ref\Caculadora.dll
+C:\Users\JAUREGUI\source\repos\Ejercicio2\Caculadora\obj\Debug\net6.0-windows\Caculadora.Calculadora.resources
